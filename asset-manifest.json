@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/my-favorite-film/static/css/main.e6c13ad2.css",
-    "main.js": "/my-favorite-film/static/js/main.defec36f.js",
+    "main.css": "/my-favorite-film/static/css/main.f61ca015.css",
+    "main.js": "/my-favorite-film/static/js/main.08490f1e.js",
+    "static/media/spase.jpg": "/my-favorite-film/static/media/spase.a10643f3432fbeb592f5.jpg",
     "index.html": "/my-favorite-film/index.html",
-    "main.e6c13ad2.css.map": "/my-favorite-film/static/css/main.e6c13ad2.css.map",
-    "main.defec36f.js.map": "/my-favorite-film/static/js/main.defec36f.js.map"
+    "main.f61ca015.css.map": "/my-favorite-film/static/css/main.f61ca015.css.map",
+    "main.08490f1e.js.map": "/my-favorite-film/static/js/main.08490f1e.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.defec36f.js"
+    "static/css/main.f61ca015.css",
+    "static/js/main.08490f1e.js"
   ]
 }
